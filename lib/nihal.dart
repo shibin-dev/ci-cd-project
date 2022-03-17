@@ -7,7 +7,8 @@ class Nihal extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(
       children: [
-        Text("First change")
+        Text("First change"),
+        Text("secong commit"),
       ],
     );
   }
