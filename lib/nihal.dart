@@ -9,6 +9,7 @@ class Nihal extends StatelessWidget {
       children: [
         Text("First change"),
         Text("secong commit"),
+        Text("First commit in second push"),
       ],
     );
   }
